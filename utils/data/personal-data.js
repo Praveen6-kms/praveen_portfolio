@@ -16,7 +16,7 @@ export const personalData = {
   stackOverflow: "#",
 
   devUsername: "",
-  resume: "public/resume.pdf",
+  resume: "/resume.pdf",
 
   
 };
