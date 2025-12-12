@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Kayala Mohan Simhachala Praveen",
-  profile: "/profile.png",
+  profile: "/profile.jpg",
   designation: "Software Developer",
   description: "I’m KMS Praveen, a passionate web developer who enjoys creating clean and responsive digital experiences. I'm also exploring Machine Learning, Data Science, and AI to expand my technical skillset.",
   email: "mkayala719@gmail.com",
