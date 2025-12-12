@@ -1,20 +1,10 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
-  },
-  {
-    id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
-  },
-  {
-    id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: "Web Development Intern",
+    company: "NTPC Simhadri",
+    duration: "June 2025 – July 2025",
+    description: 
+      "Developed a full-stack internal portal for daily updates using Flask and deployed it on a live server. Implemented admin panel, image upload functionality, and responsive UI design."
   }
-]
+];
