@@ -6,6 +6,7 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 import Navbar from "./components/navbar";
 import "./css/card.scss";
 import "./css/globals.scss";
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -14,8 +15,10 @@ export const metadata = {
     template: "%s | KMS Praveen",
   },
   description: "Portfolio of KMS Praveen – Web Developer & ML Enthusiast",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
-
 
 export default function RootLayout({ children }) {
   return (
