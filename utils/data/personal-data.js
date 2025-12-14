@@ -2,7 +2,7 @@ export const personalData = {
   name: "Kayala Mohan Simhachala Praveen",
   profile: "/profile.jpg",
   designation: "Software Developer",
-  description: "I’m KMS Praveen, a passionate web developer who enjoys creating clean and responsive digital experiences. I'm also exploring Machine Learning, Data Science, and AI to expand my technical skillset.",
+  description: "I am a motivated Computer Science graduate with hands-on experience in web development and a strong interest in Machine Learning and AI. I completed a one-month internship at NTPC Simhadri, where I worked on real-world web applications. I enjoy building responsive websites and continuously improving my technical skills.",
   email: "mkayala719@gmail.com",
   phone: "+91 9014055272",
   address: "Rajahmundry, India",
